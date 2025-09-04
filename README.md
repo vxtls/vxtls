@@ -1,4 +1,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vxtls&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxtls&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
